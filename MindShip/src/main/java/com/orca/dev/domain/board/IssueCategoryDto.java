@@ -11,4 +11,7 @@ public class IssueCategoryDto {
 	private String name;
 	// 카테고리 연관부서
 	private List associated;
+	
+	// test
+	private int test;
 }
